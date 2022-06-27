@@ -7,11 +7,15 @@ There is a positive integer $N$. The second line includes $N$ numbers $a_i$ whic
 ## Output Form
 Output the $N$ numbers from small to large, and separate them with spaces. Change the line at the end of the line with no spaces.
 ## Examples
-### Input #1  
+### Input #1
+```
 5
 4 2 4 5 1
+```
 ### Output #1
+```
 1 2 4 4 5
+```
 ## Instructions/Tips
 ### Data Scale and Agreement
 For the $20\%$ of the data, $N \le 10^3$.  
