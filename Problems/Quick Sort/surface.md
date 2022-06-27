@@ -13,5 +13,6 @@ Output the $N$ numbers from small to large, and separate them with spaces. Chang
 ### Output #1
 1 2 4 4 5
 ## Instructions/Tips
+### Data Scale and Agreement
 For the $20\%$ of the data, $N \le 10^3$.  
 For the $100\%$ of the data, $N \le 10^5$.
