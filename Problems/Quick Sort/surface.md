@@ -1,5 +1,5 @@
 [For Chinese](https://www.luogu.com.cn/problem/P1177)
-## Describe
+## Description
 Use the Quick Sort Algorithm to sort the $N$ numbers which are read in from small to large, and then output.  
 The Quick Sort Algorithm is one of the basic algorithms in OI. Someone who do not understand it can search the Internet for some details, and solved it alone after understanding it.(For someone who uses C++, though you can solve it smoothly with the function `sort`, you have not understood the quintessence of the Quick Sort Algorithm.)
 ## Input Form
