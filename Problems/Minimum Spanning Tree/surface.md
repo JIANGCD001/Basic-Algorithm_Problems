@@ -1,5 +1,5 @@
 [For Chinese](https://www.luogu.com.cn/problem/P3366)
-## Describe
+## Description
 As the title, an undirected graph is given. Work out the minimum spanning tree of it. If this graph is not connected, output `orz`.
 ## Input Form
 There are two integers in the first line, representing $N,M$. They tell that this graph has $N$ nodes and $M$ lines.  
