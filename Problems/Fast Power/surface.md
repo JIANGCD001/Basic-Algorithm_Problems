@@ -1,5 +1,5 @@
 [For Chinese](https://www.luogu.com.cn/problem/P1226)
-## Describe
+## Description
 Three integers $a,b,p$ are given. Please work out $a^b\mod p$.
 ## Input Form
 There is one line with three integers in it, representing $a,b,p$.
